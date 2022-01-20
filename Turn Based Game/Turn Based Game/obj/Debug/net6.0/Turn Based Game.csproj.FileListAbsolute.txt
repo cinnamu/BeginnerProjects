@@ -1,0 +1,15 @@
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\Turn Based Game.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\Turn Based Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\Turn Based Game.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\Turn Based Game.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\Turn Based Game.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\bin\Debug\net6.0\Turn Based Game.exe
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\bin\Debug\net6.0\Turn Based Game.deps.json
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\bin\Debug\net6.0\Turn Based Game.runtimeconfig.json
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\bin\Debug\net6.0\Turn Based Game.dll
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\bin\Debug\net6.0\ref\Turn Based Game.dll
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\bin\Debug\net6.0\Turn Based Game.pdb
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\Turn Based Game.dll
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\ref\Turn Based Game.dll
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\Turn Based Game.pdb
+C:\Users\Adrian\source\repos\Turn Based Game\Turn Based Game\obj\Debug\net6.0\Turn Based Game.genruntimeconfig.cache
