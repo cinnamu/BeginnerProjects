@@ -1,0 +1,15 @@
+Set the HTML Page Up.
+
+HTML Section.
+- Input Bar
+- Add to list button
+- Remove from list button
+- add empty list that can be added to and removed from
+
+CSS Section
+- Postion elements in desired format
+- style elements in desired format
+
+Javascript Section
+- Add to list functionality
+- Remove from list functionality
