@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Expense Tracker</h1>
+        <p><b>Name:</b><input id="name" placeholder="Insert Name"></input></p>
+        <b>Date:</b><input id="date" placeholder="mm/dd/yyyy"></input> 
+        <b>Amount:</b><input id="amount" placeholder="Insert Amount"></input><br>
+        <button id="submit">Add Expense</button>
+
+        <!--
+            Creating a table template to insert javascript rows and cells into.
+        -->
+        <div>
+            <table id="table">
+                <tr>
+                    <th>Name</th>
+                    <th>Date</th>
+                    <th>Amount</th>    
+                </tr>
+
+            </table>
+        </div>
+        <script src="app.js" async defer></script>
+    </body>
+</html>
