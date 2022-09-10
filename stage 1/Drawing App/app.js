@@ -18,6 +18,34 @@ ctx.lineWidth = 5
 
 let draw = false
 
+// Selecting all the div that has a class of clr
+let clrs = document.querySelectorAll(".clr")
+// Converting NodeList to Array
+clrs = Array.from(clrs)
+clrs.forEach(clr => {
+    clr.addEventListener("click", () => {
+        ctx.strokeStyle = clr.dataset.clr
+    })
+})
+
+let clearBtn = document.querySelector(".clear")
+clearBtn.addEventListener("click", () => {
+    // Clearning the entire canvas
+    ctx.clearRect(0, 0, canvas.width, canvas.height)
+})
+
+// Saving drawing as image
+let saveBtn = document.querySelector(".save")
+saveBtn.addEventListener("click", () => {
+    let data = canvas.toDataURL("imag/png")
+    let a = document.createElement("a")
+    a.href = data
+    // what ever name you specify here
+    // the image will be saved as that name
+    a.download = "sketch.png"
+    a.click()
+})
+
 // Set draw to true when mouse is pressed
 window.addEventListener("mousedown", (e) => draw = true)
 // Set draw to false when mouse is released
@@ -30,7 +58,7 @@ window.addEventListener("mousemove", (e) => {
         prevY = e.clientY
         return
     }
-
+    
     let currentX = e.clientX
     let currentY = e.clientY
 
